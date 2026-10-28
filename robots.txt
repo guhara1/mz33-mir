@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://mirtherapy.netlify.app/sitemap.xml
-Sitemap: https://mirtherapy.netlify.app/sitemap-hub.xml
-Sitemap: https://mirtherapy.netlify.app/sitemap-area.xml
-Sitemap: https://mirtherapy.netlify.app/sitemap-topic.xml
-Sitemap: https://mirtherapy.netlify.app/rss.xml
+Sitemap: https://mirtherapy.pages.dev/sitemap.xml
+Sitemap: https://mirtherapy.pages.dev/sitemap-hub.xml
+Sitemap: https://mirtherapy.pages.dev/sitemap-area.xml
+Sitemap: https://mirtherapy.pages.dev/sitemap-topic.xml
+Sitemap: https://mirtherapy.pages.dev/rss.xml
